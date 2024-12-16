@@ -1,12 +1,12 @@
 # AdAway Blocking Hosts File for Japan - Allow List
 #
-# author: logroid
-#         https://github.com/logroid/adaway-hosts
-#         https://logroid.blogspot.com/
-#         https://twitter.com/logroid
+# author: logroid + MONE FIERA
+#         https://github.com/monefiera/adaway-hosts
+#         https://monefiera.github.io/
+#         https://twitter.com/Forsaken_Love02
 #
-# last updated: 2022/12/07
-# allow hosts: 48 entry
+# last updated: 2024/12/17
+# allow hosts: 52 entry
 
 # 2mdn.net
 s0.2mdn.net
@@ -64,6 +64,9 @@ fbsbx.com
 lh3.ggpht.com
 yt3.ggpht.com
 
+# google.com
+fundingchoicesmessages.google.com
+
 # google-analytics.com
 ssl.google-analytics.com
 www.google-analytics.com
@@ -105,10 +108,13 @@ r.r10s.jp
 # rakuten.co.jp
 grp10.ias.rakuten.co.jp
 hb.afl.rakuten.co.jp
-rd.rakuten.co.jp
+rd.rakuten.co.jp\
 
 # t.co
 t.co
+
+# t.me
+t.me
 
 # tapjoyads.com
 ws.tapjoyads.com
@@ -121,3 +127,6 @@ ad-api-v01.uliza.jp
 
 # yimg.jp
 s.yimg.jp
+
+# youtube.com
+s.youtube.com
