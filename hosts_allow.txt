@@ -45,6 +45,9 @@ ad.dmm.com
 ad.doubleclick.net
 pubads.g.doubleclick.net
 
+# easebar.com
+*easebar.com
+
 # facebook.com
 edge-chat.facebook.com
 facebook.com
