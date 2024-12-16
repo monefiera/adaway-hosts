@@ -11,7 +11,7 @@ The regular update of this hosts has ended.
 From now on, we will update it when we receive your donation.
 -->
 
-AdAway / PersonalDNSFilter 用の許可hostsファイルです。  
+AdAway / personalDNSfilter 用の許可hostsファイルです。  
 Adawayの詳細は、以下のオリジナル作者差サイトをご参照ください。
 
 * [日本環境向け AdAway 用 hosts](https://logroid.blogspot.com/2021/05/adaway-hosts-for-japan.html)
