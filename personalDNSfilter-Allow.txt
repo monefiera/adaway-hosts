@@ -57,7 +57,7 @@
 !t.co
 !t.me
 !ws.tapjoyads.com
-analytics.twitter.com
-ad-api-v01.uliza.jp
-s.yimg.jp
-s.youtube.com
+!analytics.twitter.com
+!ad-api-v01.uliza.jp
+!s.yimg.jp
+!s.youtube.com
