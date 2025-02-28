@@ -101,6 +101,9 @@ c.kakaku.com
 # line.me
 line.me
 
+# ota.lenovo.com
+ota.lenovo.com
+
 # r10.to
 r10.to
 
