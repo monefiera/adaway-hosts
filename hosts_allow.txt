@@ -35,6 +35,9 @@ imgstat.ameba.jp
 # app-adforce.jp
 app-adforce.jp
 
+# connectivitycheck.gstatic.com
+connectivitycheck.gstatic.com
+
 # dartsearch.net
 clickserve.dartsearch.net
 
