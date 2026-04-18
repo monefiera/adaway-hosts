@@ -51,6 +51,9 @@ pubads.g.doubleclick.net
 # easebar.com
 *easebar.com
 
+# epidgames.trickcalrevive
+com.epidgames.trickcalrevive
+
 # facebook.com
 edge-chat.facebook.com
 facebook.com
